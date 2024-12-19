@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/CoccurrentDemos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/CoccurrentDemos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyDemos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyDemos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyHttpServerDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyHttpServerDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyWebSocketServerDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NettyWebSocketServerDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NioDemos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/NioDemos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/RedisDemos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/RedisDemos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/SecureTransferDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/SecureTransferDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/ZookeeperDemos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/ZookeeperDemos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/chatcommon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/chatcommon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty_redis_zookeeper_source_code/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
